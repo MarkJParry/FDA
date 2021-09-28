@@ -11,7 +11,7 @@ This repository contains the following notebooks:
 |cao|2nd Part of assignment|27/09/2021
 
 To view notebooks without interacting with them
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/...)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/MarkJParry/FDA/tree/main/)
 
 To view and interact with notebooks
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MarkJParry/FDA/HEAD)
