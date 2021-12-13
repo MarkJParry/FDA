@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="styles/tufte.css"/>
 # FDA
 Repository for Fundamentals of Data Analysis Module of the GMIT Higher Diploma in Data Analytics Course 2021
 
