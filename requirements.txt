@@ -1,2 +1,7 @@
 matplotlib
+seaborn
 numpy
+re
+requests
+pandas
+tabula-py

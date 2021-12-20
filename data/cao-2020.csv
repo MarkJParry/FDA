@@ -1,28 +1,28 @@
 ,COURSE TITLE,COURSE CODE2,R1 POINTS,R2 POINTS,LEVEL
 0,International Business,AC120,209,,8
 1,Liberal Arts,AC137,252,,8
-2,"First Year Art & Design (Common Entry,portfolio)",AD101,#+matric,,8
-3,Graphic Design and Moving Image Design (portfolio),AD102,#+matric,,8
-4,Textile & Surface Design and Jewellery & Objects (portfolio),AD103,#+matric,,8
-5,"Education & Design or Fine Art (Second Level Teaching,portfolio))",AD202,#+matric,,8
-6,Fine Art (portfolio),AD204,#+matric,,8
-7,Fashion Design (portfolio),AD211,#+matric,,8
-8,Product Design (portfolio),AD212,#+matric,,8
+2,"First Year Art & Design (Common Entry,portfolio)",AD101,,,8
+3,Graphic Design and Moving Image Design (portfolio),AD102,,,8
+4,Textile & Surface Design and Jewellery & Objects (portfolio),AD103,,,8
+5,"Education & Design or Fine Art (Second Level Teaching,portfolio))",AD202,,,8
+6,Fine Art (portfolio),AD204,,,8
+7,Fashion Design (portfolio),AD211,,,8
+8,Product Design (portfolio),AD212,,,8
 9,Visual Culture,AD215,377,320,8
-10,Illustration (portfolio),AD217,#+matric,,8
-11,Interaction Design (portfolio),AD222,#+matric,,8
-12,Software Design,AL600,AQA,,6
-13,Computer Engineering,AL601,AQA,219,6
-14,Mechanical Engineering,AL602,AQA,,6
-15,Civil Engineering,AL604,AQA,AQA,6
-16,Music and Instrument Technology,AL605,AQA,AQA,6
+10,Illustration (portfolio),AD217,,,8
+11,Interaction Design (portfolio),AD222,,,8
+12,Software Design,AL600,,,6
+13,Computer Engineering,AL601,,219,6
+14,Mechanical Engineering,AL602,,,6
+15,Civil Engineering,AL604,,AQA,6
+16,Music and Instrument Technology,AL605,,AQA,6
 17,Pharmacy Technician,AL630,295,,6
 18,Dental Nursing,AL631,300,298,6
 19,Applied Science,AL632,234,,6
 20,Business,AL650,207,,6
-21,Culinary Arts,AL660,AQA,AQA,6
-22,Bar Supervision,AL661,AQA,AQA,6
-23,Business (Sport and Recreation),AL663,AQA,AQA,6
+21,Culinary Arts,AL660,,AQA,6
+22,Bar Supervision,AL661,,AQA,6
+23,Business (Sport and Recreation),AL663,,AQA,6
 24,Computer Engineering with Network Infrastructure,AL701,216,,7
 25,Software Design with Artificial Intelligence for Cloud Computing,AL702,214,,7
 26,Software Design with Virtual Reality and Gaming,AL703,216,,7
@@ -194,9 +194,9 @@
 192,Popular Music: Voice at CIT Cork School of Music,CR129,841,,8
 193,Musical Theatre at CIT Cork School of Music,CR130,548,518,8
 194,Business Information Systems,CR150,335,,8
-195,"Contemporary Applied Art (Ceramics, Glass, Textiles) at CIT Crawford",CR210,#+matric,,8
-196,Fine Art at CIT Crawford College of Art and Design,CR220,#+matric,,8
-197,Photography with New Media,CR225,#+matric,,8
+195,"Contemporary Applied Art (Ceramics, Glass, Textiles) at CIT Crawford",CR210,,,8
+196,Fine Art at CIT Crawford College of Art and Design,CR220,,,8
+197,Photography with New Media,CR225,,,8
 198,Physical Sciences (Common Entry),CR300,282,,7
 199,Physical Sciences (Common Entry),CR305,282,,8
 200,IT Management,CR310,297,,8
@@ -222,7 +222,7 @@
 220,Construction Management,CR572,269,,8
 221,Electrical Engineering,CR580,318,,8
 222,Electronic Engineering,CR590,303,,8
-223,Visual Communications,CR600,#+matric,,8
+223,Visual Communications,CR600,,,8
 224,Early Childhood Education and Care,CR620,365,357,7
 225,Culinary Arts,CR640,244,,7
 226,Beverage Industry Management,CR650,209,,7
@@ -236,7 +236,7 @@
 234,Information Technology,CT116,219,,7
 235,Information Technology,CT125,220,,8
 236,Business,CT325,338,,8
-237,Business,CW006,AQA,AQA,6
+237,Business,CW006,,AQA,6
 238,Business (options),CW018,298,248,8
 239,Sustainable Farm Management and Agribusiness,CW027,266,,7
 240,Early Childhood Education and Care,CW028,252,,8
@@ -319,9 +319,9 @@
 317,Business (Information Systems),DB524,342,309,8
 318,Business (Cloud Computing),DB526,347,,8
 319,Applied Social Care,DB527,234,260,8
-320,Applied Social Care,DB528,AQA,AQA,7
+320,Applied Social Care,DB528,,AQA,7
 321,Marketing,DB531,293,,8
-322,Sound Engineering and Music Production,DB534,AQA,AQA,6
+322,Sound Engineering and Music Production,DB534,,AQA,6
 323,Psychology,DB562,243,229,8
 324,Arts,DB563,161,189,6
 325,Social Science,DB566,220,227,8
@@ -332,7 +332,7 @@
 330,Business in Accounting,DB572,119,117,7
 331,Business in Marketing,DB573,117,146,7
 332,Business in Information Technology,DB574,136,388,7
-333,Film and Creative Media,DB576,AQA,AQA,7
+333,Film and Creative Media,DB576,,AQA,7
 334,Education - Early Childhood Education,DC001,440,,8
 335,Education - Primary Teaching,DC002,488,,8
 336,Education - Primary Teaching - Gaeltacht Applicants,DC003,445,,8
@@ -450,7 +450,7 @@
 448,Agri-Food Production,DK885,,,8
 449,Biopharmaceutical Science,DK886,301,,8
 450,Environmental Science,DK887,330,,8
-451,Business - Applied Entrepreneurship,DL701,AQA,AQA,7
+451,Business - Applied Entrepreneurship,DL701,,AQA,7
 452,"English, Media and Cultural Studies",DL821,212,212,8
 453,Arts Management,DL822,229,229,8
 454,Business Management,DL823,235,,8
@@ -627,12 +627,12 @@
 625,Marketing,GC410,145,,7
 626,Business,GC411,135,135,7
 627,Computing Science,GC430,252,220,8
-628,Computing,GC435,AQA,AQA,7
+628,Computing,GC435,,AQA,7
 629,Communications and Media Production,GC450,254,254,8
 630,Music Production for Games (portfolio),GC460,,,6
 631,Design Communication (portfolio),GC462,,,8
-632,Communications,GC465,AQA,,7
-633,Film and TV Production,GC466,AQA,AQA,7
+632,Communications,GC465,,,7
+633,Film and TV Production,GC466,,AQA,7
 634,Photographic Media,GC470,169,169,7
 635,Photography,GC475,150,150,6
 636,Interior Architecture (portfolio),GC489,254,,8
@@ -892,11 +892,11 @@
 890,Education - Primary Teaching (Froebel),MH001,507,,8
 891,Education - Primary Teaching - Gaeltacht Applicants (Froebel),MH002,,,8
 892,Arts,MH101,318,,8
-893,Music,MH103,#,,8
+893,Music,MH103,,,8
 894,Psychology - 3 years,MH106,521,,8
 895,Social Science,MH107,346,,8
 896,Media Studies,MH109,316,,8
-897,Community and Youth Work (Full-Time),MH116,#,,8
+897,Community and Youth Work (Full-Time),MH116,,,8
 898,Science,MH201,360,,8
 899,Biotechnology,MH202,455,,8
 900,Biological and Geographical Sciences,MH203,430,,8
@@ -923,8 +923,8 @@
 921,Computer Science through Science (options),MH602,351,,8
 922,Computational Thinking,MH603,532,,8
 923,Early Childhood - Teaching and Learning (part-time),MH801,327,,8
-924,"Community and Youth Work (part-time, in service)",MH802,#,#,8
-925,"Local Studies/Community Studies (part-time, evening) - Mature Students",MH803,#,#,8
+924,"Community and Youth Work (part-time, in service)",MH802,,#,8
+925,"Local Studies/Community Studies (part-time, evening) - Mature Students",MH803,,#,8
 926,Contemporary & Applied Theatre Studies,MI001,375,,8
 927,Arts,MI002,300,281,8
 928,Education - Primary Teaching - International,MI004,577,,8
@@ -1155,13 +1155,13 @@
 1153,English Literature/History of Art and Architecture,TR263,498,497,8
 1154,English Literature/Philosophy,TR269,499,,8
 1155,English Literature/Sociology,TR272,498,,8
-1156,English Literature/Drama Studies,TR276,#498,,8
+1156,English Literature/Drama Studies,TR276,498,,8
 1157,English Literature/Modern Language,TR277,498,495,8
-1158,Film/Drama Studies,TR311,#521,,8
+1158,Film/Drama Studies,TR311,521,,8
 1159,Film/English Literature,TR312,521,,8
 1160,Film/Music,TR320,521,,8
 1161,Geography/History,TR322,529,,8
-1162,Drama Studies/Modern Language,TR323,#473,,8
+1162,Drama Studies/Modern Language,TR323,473,,8
 1163,Film/Modern Language,TR324,521,,8
 1164,Film/History,TR325,529,,8
 1165,Geography/Modern Language,TR326,352,,8
@@ -1183,7 +1183,7 @@
 1181,Mathematics/Music,TR598,566,,8
 1182,Mathematics/Philosophy,TR599,566,,8
 1183,Music/Philosophy,TR629,499,,8
-1184,Music/Drama Studies,TR635,#473,,8
+1184,Music/Drama Studies,TR635,473,,8
 1185,Music/Modern Language,TR636,388,,8
 1186,Music/Religion,TR638,388,,8
 1187,Philosophy/Modern Language,TR639,499,,8
@@ -1198,11 +1198,11 @@
 1196,Italian/Modern Language,TR670,381,,8
 1197,Russian/Modern Language,TR671,332,,8
 1198,Spanish/Modern Language,TR672,336,,8
-1199,Sociology/Drama Studies,TR755,#498,,8
+1199,Sociology/Drama Studies,TR755,498,,8
 1200,Sociology/Modern Language,TR756,498,495,8
 1201,Dental Nursing,TR801,436,419,7
-1202,Dental Hygiene,TR802,#543,#511,7
-1203,Dental Technology,TR803,#531,#486,7
+1202,Dental Hygiene,TR802,543,#511,7
+1203,Dental Technology,TR803,531,#486,7
 1204,Children`s and General Nursing (Integrated),TR911,511,510,8
 1205,Midwifery,TR913,478,477,8
 1206,Electronic Engineering,TU601,232,,6
@@ -1268,7 +1268,7 @@
 1266,Medicinal Chemistry and Pharmaceutical Sciences,TU762,364,,7
 1267,Pharmaceutical Science,TU763,382,349,7
 1268,Business,TU771,224,,7
-1269,Business (Common Entry with Award options),TU772,AQA,227,7
+1269,Business (Common Entry with Award options),TU772,,227,7
 1270,Management,TU774,195,209,7
 1271,Accounting and Finance,TU775,260,,7
 1272,Accounting and Finance,TU776,182,175,7
@@ -1400,7 +1400,7 @@
 1398,Applied Social Care,TU997,310,283,8
 1399,Applied Computing (options),WD001,260,260,8
 1400,Science (options),WD002,308,,8
-1401,Business,WD003,AQA,171,6
+1401,Business,WD003,,171,6
 1402,Health Sciences (options),WD005,280,,8
 1403,Exercise Sciences (options),WD006,280,,8
 1404,Engineering (options),WD007,288,288,8
@@ -1417,7 +1417,7 @@
 1415,Hospitality Management,WD091,228,,8
 1416,Architectural Technology,WD094,166,150,7
 1417,Horticulture (Waterford - Kildalton),WD096,260,,7
-1418,Horticulture (Dublin - National Botanic Gardens),WD097,AQA,,7
+1418,Horticulture (Dublin - National Botanic Gardens),WD097,,,7
 1419,General Nursing,WD116,422,,8
 1420,Psychiatric Nursing,WD117,366,,8
 1421,Intellectual Disability Nursing,WD120,377,,8
@@ -1430,8 +1430,8 @@
 1428,Pharmaceutical Science,WD147,293,,8
 1429,Early Childhood Studies,WD149,271,,8
 1430,Criminal Justice Studies,WD150,270,,8
-1431,Software Systems Development,WD151,AQA,AQA,7
-1432,Visual Art,WD152,AQA,,8
+1431,Software Systems Development,WD151,,AQA,7
+1432,Visual Art,WD152,,,8
 1433,Multimedia Applications Development,WD153,163,,7
 1434,Information Technology,WD155,211,,7
 1435,Business,WD159,195,,7
@@ -1439,12 +1439,12 @@
 1437,Quantity Surveying,WD162,216,,8
 1438,Psychology,WD163,434,,8
 1439,Food Science with Business,WD164,309,,7
-1440,Culinary Arts,WD172,AQA,AQA,6
-1441,Hospitality Studies,WD173,AQA,,6
-1442,Tourism,WD174,AQA,,6
+1440,Culinary Arts,WD172,,AQA,6
+1441,Hospitality Studies,WD173,,,6
+1442,Tourism,WD174,,,6
 1443,Pharmaceutical Science,WD175,226,,7
 1444,"Science (Mol. Biology with Biopharm.,Food Science with Business,Pharm.)",WD177,222,,7
-1445,Electrical Engineering,WD182,AQA,,7
+1445,Electrical Engineering,WD182,,,7
 1446,Retail Management,WD184,163,,7
 1447,Sports Coaching and Performance,WD186,270,,8
 1448,Social Science,WD187,272,,8
@@ -1454,7 +1454,7 @@
 1452,Marketing and Digital Media,WD193,271,,8
 1453,Culinary Arts,WD194,217,,8
 1454,Architectural and Building Information Modelling Technology,WD195,279,,8
-1455,Arts (options),WD200,AQA,AQA,8
+1455,Arts (options),WD200,,AQA,8
 1456,Molecular Biology with Biopharmaceutical Science,WD205,228,,7
 1457,Electronic Engineering,WD206,179,,7
 1458,Mechanical Engineering,WD207,198,,7
